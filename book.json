@@ -1,0 +1,13 @@
+{
+    "title": "LSCP WikiSite",
+    "description": "Lesser Secure Contain Protect",
+    "author": "Every Author",
+    "language": "zh-hans",
+    "root": ".",
+
+    "plugins": [
+    ],
+
+    "pluginsConfig": {
+    }
+}
